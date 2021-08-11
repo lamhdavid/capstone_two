@@ -1,0 +1,5 @@
+index,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error
+linear regression all vars,0.4042177048915764,0.30464184688332613,0.5519436990158744
+linear regression with five features,0.44527597584273865,0.3486660606752898,0.5904795175747334
+linear regression with five features and regional indicators,0.40376747457433854,0.3233068958774723,0.5686008229658768
+lasso regression with five features and regional indicators,0.39206358848940287,0.2814140435200973,0.530484725058222
